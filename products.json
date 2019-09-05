@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "totalRows": 35,
+  "limit": 10,
+  "page": 1,
+  "totalPage": 4,
+  "data": [
+    {
+
+      "_id": "5d2b60809b7ee40017adfc51",
+      "name": "Bamya",
+      "price": 40.00,
+      "thumbnail": "http://res.cloudinary.com/dd91ahhsh/image/upload/v1563123840/tcxlhd8egxqq3kouvabi.jpg",
+      
+    },
+    
+  ]
+}
