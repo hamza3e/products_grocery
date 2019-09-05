@@ -1,9 +1,9 @@
 {
   "status": 200,
-  "totalRows": 35,
-  "limit": 10,
+  "totalRows": 1,
+  "limit": 1,
   "page": 1,
-  "totalPage": 4,
+  "totalPage": 1,
   "data": [
     {
 
